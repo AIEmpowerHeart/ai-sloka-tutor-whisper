@@ -1,0 +1,16 @@
+
+cd path/to/your/unzipped/folder
+git init
+git remote add origin https://github.com/AIEmpowerHeart/ai-sloka-tutor.git
+git branch -M main
+git add .
+git commit -m "🎉 Initial commit - AI Sloka Tutor"
+git push -u origin main
+
+
+
+
+
+
+
+
